@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/dhruv-misra-35a96a170/">
   <img align="center" alt="Dhruv's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="dhruvmisra@live.com">
+<a href="dhruvistheone@gmail.com">
   <img align="center" alt="Dhruv's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
